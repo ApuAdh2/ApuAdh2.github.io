@@ -1,0 +1,26 @@
+body{
+    background-color: black;
+    color:white;
+}
+#title, .title, .TheNewWorld{
+    text-align:center;
+    font-family: 'Monaco';
+    font-size:50px;
+}
+.TheNewWorld{
+    font-size:20px;
+    margin: auto;
+    width: 50%;
+    border: 3px solid white;
+    padding: 10px;
+}
+a{
+    color:white;
+    font-size: 30px;
+}
+a:hover{
+    color:rgb(40, 177, 154);
+}
+#home{
+    text-align:center;
+}
